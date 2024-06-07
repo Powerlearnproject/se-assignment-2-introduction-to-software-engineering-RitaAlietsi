@@ -14,8 +14,8 @@ Programming is entirely centered on around the code, software engineering is ext
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 The Software Development Life Cycle (SDLC) is a framework employed by software engineers to systematically design, develop, test, and deploy software applications. This process encompasses several phases, starting with:
 Planning- where the project's scope and objectives are defined through activities like feasibility analysis and resource allocation. 
-Requirements analysis phase-involves gathering and analyzing both functional and non-functional requirements through stakeholder meetings and use case analysis. 
-Design phase-creates a comprehensive blueprint of the software's architecture and components. 
+Requirements analysis phase- involves gathering and analyzing both functional and non-functional requirements through stakeholder meetings and use case analysis. 
+Design phase- creates a comprehensive blueprint of the software's architecture and components. 
 Implementation-the design is translated into code.
 Testing- defects are identified and resolved. 
 Deployment phase- involves releasing the software to production.
